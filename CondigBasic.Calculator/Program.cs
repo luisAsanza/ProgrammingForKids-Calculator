@@ -3,8 +3,8 @@
 namespace CondigBasic.Calculator
 { 
     /// <summary>
-     /// This is the class "Program"
-     /// </summary>
+    /// This is the class "Program"
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
