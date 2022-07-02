@@ -2,6 +2,9 @@
 
 namespace CodingBasic.HelloWorld
 {
+    /// <summary>
+    /// This is the class "Program"
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
