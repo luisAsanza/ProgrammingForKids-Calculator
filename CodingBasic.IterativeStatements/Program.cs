@@ -16,6 +16,10 @@ namespace CodingBasic.IterativeStatements
             //}
 
             ///2. (Elian) Print odd numbers from 1 to 100
+            //for(int a = 1; a < 100; a = a + 2)
+            //{
+            //    Console.WriteLine(a);
+            //}
             
 
 
