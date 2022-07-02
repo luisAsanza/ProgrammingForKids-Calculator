@@ -20,12 +20,15 @@ namespace CodingBasic.IterativeStatements
             //{
             //    Console.WriteLine(a);
             //}
-            
+
 
 
             ///3. (Alan) Print the numbers 10 by 10 up to 100
-
-
+            for (int r = 0; r <= 100; r = r + 10)
+            {
+                Console.WriteLine(r);
+            }        
+                
         }
     }
 }
