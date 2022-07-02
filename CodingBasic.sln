@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingBasic.HelloWorld", "CodingBasic.HelloWorld\CodingBasic.HelloWorld.csproj", "{769A1FCA-0C1D-4BBC-A3C4-BEFFF2ADF4F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondigBasic.Calculator", "CondigBasic.Calculator\CondigBasic.Calculator.csproj", "{908E1099-7BA5-4712-A8B4-CF4704B97A1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CondigBasic.Calculator", "CondigBasic.Calculator\CondigBasic.Calculator.csproj", "{908E1099-7BA5-4712-A8B4-CF4704B97A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingBasic.IterativeStatements", "CodingBasic.IterativeStatements\CodingBasic.IterativeStatements.csproj", "{7EEEC02F-4D21-4A45-8368-88BF918AE49B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{908E1099-7BA5-4712-A8B4-CF4704B97A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908E1099-7BA5-4712-A8B4-CF4704B97A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908E1099-7BA5-4712-A8B4-CF4704B97A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEEC02F-4D21-4A45-8368-88BF918AE49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEEC02F-4D21-4A45-8368-88BF918AE49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEEC02F-4D21-4A45-8368-88BF918AE49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEEC02F-4D21-4A45-8368-88BF918AE49B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
